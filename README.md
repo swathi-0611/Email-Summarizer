@@ -15,3 +15,16 @@ This repository contains an email summarization tool that takes long email text 
 - 📝 Sample data included for demonstration
 
 ## 📁 Repository Structure
+
+
+Email-Summarizer/
+├── workflows/                  # GitHub Actions workflows
+├── scripts/                    # Python scripts for summarization
+│   ├── summarizer.py
+│   └── utils.py
+├── data/                       # Sample email dataset
+│   └── Email Summarizer Using Aggregate.json
+├── screenshots/                # Images for documentation/demo
+│   └── Screenshot.png
+├── requirements.txt            # Python dependencies
+└── README.md                   # Project documentation
